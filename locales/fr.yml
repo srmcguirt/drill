@@ -1,0 +1,10 @@
+button:
+  about: À propos
+  back: Retour
+  go: Essayer
+  home: Accueil
+  toggle_dark: Basculer en mode sombre
+  toggle_langs: Changer de langue
+intro:
+  desc: Opérations de forage terrestre
+not-found: Page non trouvée
